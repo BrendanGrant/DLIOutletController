@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutletController", "OutletController\OutletController.csproj", "{7A457478-342F-43ED-9D1B-78C2FA968153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLIOutletController", "DLIOutletController\DLIOutletController.csproj", "{FF6BE09C-A50E-473E-ACBB-F3848D7CB118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A457478-342F-43ED-9D1B-78C2FA968153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A457478-342F-43ED-9D1B-78C2FA968153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A457478-342F-43ED-9D1B-78C2FA968153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A457478-342F-43ED-9D1B-78C2FA968153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6BE09C-A50E-473E-ACBB-F3848D7CB118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6BE09C-A50E-473E-ACBB-F3848D7CB118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6BE09C-A50E-473E-ACBB-F3848D7CB118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6BE09C-A50E-473E-ACBB-F3848D7CB118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A0F5EDE-0CF7-435F-8B74-6EF515873511}
+	EndGlobalSection
+EndGlobal
